@@ -55,4 +55,8 @@ class HomeController extends Controller
     {
         return view('suporn');
     }
+    public function korawat()
+    {
+        return view('korawat');
+    }
 }
