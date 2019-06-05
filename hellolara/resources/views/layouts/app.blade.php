@@ -69,6 +69,10 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .img-circle {
+    border-radius: 50%;
+}
         </style>
 </head>
 <body>
