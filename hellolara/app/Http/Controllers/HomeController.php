@@ -45,5 +45,10 @@ class HomeController extends Controller
         return view('userform');
     }
 
+    public function kanyamat()
+    {
+
+        return view('kanyamat');
+    }
 
 }
