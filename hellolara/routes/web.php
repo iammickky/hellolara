@@ -22,14 +22,11 @@ Route::get('schools', 'HomeController@schools');
 Route::get('parents', 'HomeController@parents')->middleware('auth');
 Route::get('hospitals','HomeController@hospitals');
 Route::get('userform', 'HomeController@userform');
-<<<<<<< HEAD
-Route::get('kanyamat', 'HomeController@kanyamat');
-=======
 
+Route::get('kanyamat', 'HomeController@kanyamat');
 Route::get('pimwadee', 'HomeController@pimwadee');
 Route::get('suporn', 'HomeController@suporn');
 
->>>>>>> 113ebd0533ccd069948fe152825b66463c5f199f
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
