@@ -22,6 +22,9 @@ Route::get('schools', 'HomeController@schools');
 Route::get('parents', 'HomeController@parents')->middleware('auth');
 Route::get('hospitals','HomeController@hospitals');
 Route::get('userform', 'HomeController@userform');
+
+Route::get('pimwadee', 'HomeController@pimwadee');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
