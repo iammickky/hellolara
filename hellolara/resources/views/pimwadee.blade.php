@@ -3,7 +3,7 @@
 
 <div class="title m-b-md">
                     <h3>Pimwadee</h3>
-                    <img src="https://media.licdn.com/dms/image/C4D03AQFq-bu8oJLayg/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=x61nvSo5usecovHhlOEF9bZE5Aj8avHHdzjyfTNt8l8" alt="myPic" />
+                    <img class="img-circle" src="https://media.licdn.com/dms/image/C4D03AQFq-bu8oJLayg/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=x61nvSo5usecovHhlOEF9bZE5Aj8avHHdzjyfTNt8l8" alt="myPic" />
                 </div>
 
                 <div class="links">
