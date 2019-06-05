@@ -24,6 +24,7 @@ Route::get('hospitals','HomeController@hospitals');
 Route::get('userform', 'HomeController@userform');
 
 Route::get('pimwadee', 'HomeController@pimwadee');
+Route::get('suporn', 'HomeController@suporn');
 
 Auth::routes();
 

@@ -49,4 +49,10 @@ class HomeController extends Controller
     {
         return view('pimwadee');
     }
+
+    
+    public function suporn()
+    {
+        return view('suporn');
+    }
 }
