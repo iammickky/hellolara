@@ -45,16 +45,15 @@ class HomeController extends Controller
         return view('userform');
     }
 
-<<<<<<< HEAD
     public function kanyamat()
     {
 
         return view('kanyamat');
-=======
+    }
+
     public function pimwadee()
     {
         return view('pimwadee');
->>>>>>> 113ebd0533ccd069948fe152825b66463c5f199f
     }
 
     
